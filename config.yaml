@@ -1,0 +1,9 @@
+appname: todolist
+
+db:
+  name:     "postgres"
+  user:     "postgreadmin"
+  password: "1234"
+  host:     "localhost"
+  port:     "5432"
+  drop:     false
